@@ -12,6 +12,7 @@
 ## Features
 - JLine 3
 - SQLite
+- JUnit 4 Tests
 - Student / Admin Login
 - Search by Title/Author
 
