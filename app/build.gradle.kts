@@ -23,6 +23,10 @@ dependencies {
     implementation(libs.guava)
 
     implementation("org.jline:jline:3.30.0")
+
+    implementation("org.xerial:sqlite-jdbc:3.51.2.0")
+
+    implementation("com.google.guava:guava:33.5.0-jre")
 }
 
 // Apply a specific Java toolchain to ease working on different environments.
