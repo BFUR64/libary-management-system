@@ -10,7 +10,7 @@
 (Video or GIF)
 
 ## Features
-- JLine 3
+- JLine 3 (Temporarily not in)
 - SQLite
 - JUnit 4 Tests
 - Student / Admin Login
